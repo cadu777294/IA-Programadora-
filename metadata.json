@@ -1,0 +1,5 @@
+{
+  "name": "Cadu AI: Programming & Cybersecurity",
+  "description": "Uma plataforma completa de IA para programação, cibersegurança e cursos especializados.",
+  "requestFramePermissions": ["microphone"]
+}
